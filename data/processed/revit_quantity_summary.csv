@@ -1,0 +1,6 @@
+category,element_count,total_volume_m3,missing_volumes
+Bridge Deck,1,3645.0,0
+Walls,2,442.26,0
+Foundations,12,288.0,0
+Columns,12,89.85600000000001,0
+Beams,6,83.328,0

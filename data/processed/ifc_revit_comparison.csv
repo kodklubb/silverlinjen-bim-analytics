@@ -1,0 +1,6 @@
+category,element_count_ifc,total_volume_m3_ifc,missing_volumes_ifc,element_count_revit,total_volume_m3_revit,missing_volumes_revit,_merge,count_difference,volume_difference_m3,count_match,volume_match,status
+Beams,6,83.32800000000012,0,6,83.328,0,both,0,1.1368683772161603e-13,True,True,PASSED
+Bridge Deck,1,3645.000000000007,0,1,3645.0,0,both,0,6.821210263296962e-12,True,True,PASSED
+Columns,12,89.85600000000011,0,12,89.85600000000001,0,both,0,9.947598300641403e-14,True,True,PASSED
+Foundations,12,287.99999999999994,0,12,288.0,0,both,0,-5.684341886080802e-14,True,True,PASSED
+Walls,2,442.2599999999991,0,2,442.26,0,both,0,-9.094947017729282e-13,True,True,PASSED

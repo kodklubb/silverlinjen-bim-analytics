@@ -1,0 +1,2 @@
+categories_compared,passed_categories,failed_categories,total_ifc_volume_m3,total_revit_volume_m3,total_absolute_difference_m3,volume_tolerance_m3,agreement_rate_pct
+5,5,0,4548.444000000006,4548.444,8.000711204658728e-12,0.001,100.0
